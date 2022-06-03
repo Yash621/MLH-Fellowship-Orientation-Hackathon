@@ -12,3 +12,14 @@
 body {
   background-color: #1B2431;
 }
+
+.progressBar {
+  transition: width 0.6s ease;
+  animation: animate-stripes 5s linear infinite;
+}
+
+@keyframes animate-stripes {
+  100% {
+    background-position: -100px 0;
+  }
+}
