@@ -10,14 +10,11 @@ export default function App() {
 
   return (
     <div className="font-montserrat">
-
       {user ?
         <Main />
         :
         <Login />
       }
-
     </div>
-
   );
 }
