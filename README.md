@@ -1,6 +1,6 @@
 # APP NAME
 
-## 📌Brief introduction
+## 📌 Brief description
 
 APP NAME has the prime objective of a disease prediction system, along with a secure payment system using Solana blockchain and a smart contract for booking an appointment with the doctor.
 
