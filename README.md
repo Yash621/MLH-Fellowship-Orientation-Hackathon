@@ -1,8 +1,8 @@
-# APP NAME
+# Medex
 
 ## 📌 Brief description
 
-APP NAME has the prime objective of a disease prediction system, along with a secure payment system using Solana blockchain and a smart contract for booking an appointment with the doctor.
+Medex has the prime objective of a disease prediction system, along with a secure payment system using Solana blockchain and a smart contract for booking an appointment with the doctor.
 
 ## 💡 Inspiration
 
@@ -12,7 +12,7 @@ Hence, Team 1 came up with the idea of providing people all over the world with 
 
 ## 💻 What it does
 
-APP NAME is a one-stop location to discuss different medical milestones, and AI Disease prediction systems, transfer money through a secure payment system using Solana blockchain, and finally, a translator to get the whole web app in the language one is comfortable with and hence dissolve any communication barrier. This solution with shorten the gap between the people around the world in search of good healthcare and pave a path in the journey of recovery.
+Medex is a one-stop location to discuss different medical milestones, and AI Disease prediction systems, transfer money through a secure payment system using Solana blockchain, and finally, a translator to get the whole web app in the language one is comfortable with and hence dissolve any communication barrier. This solution with shorten the gap between the people around the world in search of good healthcare and pave a path in the journey of recovery.
 
 ## ⚙️ How we built it
 
@@ -47,7 +47,7 @@ We used GitHub for version control and collaboration. We used [GitHub Project](h
 - How to use i18n to support multi-language support.
 - How to use Tailwind to style and animate our application.
 
-## 🚀 What's next for APP NAME
+## 🚀 What's next for Medex
 
 - Building a mobile application.
 - Adding more disease prediction features.
